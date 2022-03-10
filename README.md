@@ -2,7 +2,7 @@
 - 👀 I’m interested in information Technology
 - 🌱 I’m currently learning Dev Full Stack 
 - 💞️ I’m looking to collaborate on projects related to my studies
-- 📫 How to reach me https://www.linkedin.com/in/matusalem-fagundes-416a27223
+- 📫 How to reach me https://www.linkedin.com/in/fagund1s/
 
 <!---
 Fagund1sh/Fagund1sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
